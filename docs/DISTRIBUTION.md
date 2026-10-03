@@ -4,14 +4,14 @@ This repository provides ready-to-install W40KRT_VR releases and player document
 
 ## Original work
 
-The original W40KRT_VR work in **0.9.81 beta** retains its existing [MIT License](../LICENSE), copyright 2026 Beren5556. Binary distribution does not revoke that grant or impose new restrictions on copies already released under MIT. MIT does not require delivery of the original source. Preserve its copyright and permission notice when redistributing covered material. The software is supplied as is, without warranty, on the terms stated in that license.
+The original W40KRT_VR work in **0.9.79, 0.9.80 and 0.9.81 beta** retains its existing [MIT License](../LICENSE), copyright 2026 Beren5556. Binary distribution does not revoke that grant or impose new restrictions on copies already released under MIT. MIT does not require delivery of the original source. Preserve its copyright and permission notice when redistributing covered material. The software is supplied as is, without warranty, on the terms stated in that license.
 
-This notice is specific to the supplied version. It does not grant a blanket MIT license over every future component: each release must identify the terms covering its original components. Third-party components always retain their own licenses.
+This notice is specific to the supplied versions. It does not grant a blanket MIT license over every future component: each release must identify the terms covering its original components. Third-party components always retain their own licenses.
 
 ## Third-party work
 
 - **SolemnScribe — Rogue Trader VR (RTVR):** adapted game, camera, renderer and interface integration under MIT. The original copyright and permission notice remain in [LICENSE-RTVR](../LICENSE-RTVR). [Upstream project](https://github.com/SolemnScribe/rogue-trader-and-pathfinder-vr).
-- **tig3rmast3r and OFXR Bridge contributors:** the optional modified OFXR provider remains under LGPL-3.0-or-later. Its [corresponding source archive](../third_party/ofxr/W40KRT_VR-0.9.81-ofxr-source.zip) contains the modifications, build files, LGPL and incorporated GPL texts, and dependency notices. The same source is included in the installable ZIP. These modifications are not withheld as private mod code.
+- **tig3rmast3r and OFXR Bridge contributors:** the optional modified OFXR provider remains under LGPL-3.0-or-later. The [versioned corresponding source archives](../third_party/ofxr) contain modifications, build files, LGPL and incorporated GPL texts, and dependency notices. The 0.9.80 and 0.9.81 source archives are also included in their installable ZIPs. These modifications are not withheld as private mod code.
 - **Khronos and JsonCpp contributors:** OpenXR loader, headers and associated notices retain their applicable licenses. The core loader and the OFXR header subset use the revisions identified in their respective notices.
 - **NVIDIA:** the DLSS runtime, NGX integration and permitted Optical Flow interface headers retain their own terms. NVIDIA components are not made MIT-licensed by inclusion. The provider loads Optical Flow from the installed display driver; the full proprietary SDK is not redistributed.
 - **AMD:** linked FidelityFX Optical Flow components retain AMD's MIT notice. The exact upstream source revision is identified in the OFXR source's build documentation.

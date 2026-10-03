@@ -12,6 +12,8 @@ The approach is reminiscent of **Demeo**, while preserving the original game's c
 
 **[Download 0.9.81 beta](https://github.com/Beren5556/W40KRT_VR-Downloads/releases/download/v0.9.81-beta/W40KRT_VR-0.9.81-beta.zip)** · [Release notes](docs/RELEASE_0.9.81.md) · [All releases](https://github.com/Beren5556/W40KRT_VR-Downloads/releases)
 
+Older betas: [0.9.80](https://github.com/Beren5556/W40KRT_VR-Downloads/releases/tag/v0.9.80-beta) · [0.9.79](https://github.com/Beren5556/W40KRT_VR-Downloads/releases/tag/v0.9.79-beta). Use each version's bundled installation guide; older packages have different setup options and compatibility.
+
 Download the named **W40KRT_VR-0.9.81-beta.zip** release asset and extract it completely. GitHub's automatically generated **Source code** archives contain repository documentation and third-party material; they are not the installable mod.
 
 This is the official binary-distribution repository for W40KRT_VR. It provides ready-to-install packages, player documentation, credits, license notices, and required third-party source. The original mod's buildable source and development project are not distributed here. See [Distribution and licenses](docs/DISTRIBUTION.md).
