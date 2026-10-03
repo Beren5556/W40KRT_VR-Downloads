@@ -1,0 +1,4 @@
+* text=auto
+*.md text eol=lf
+*.txt text eol=lf
+*.zip -text

@@ -1,0 +1,45 @@
+W40KRT_VR 0.9.81 beta
+
+Original W40KRT_VR code:
+  Copyright (c) 2026 Beren5556. MIT License; see LICENSE.
+
+Managed game and UI integration adapted from Rogue Trader VR (RTVR):
+  Copyright (c) 2026 SolemnScribe. MIT License; see LICENSE-RTVR.
+  https://github.com/SolemnScribe/rogue-trader-and-pathfinder-vr
+  Referenced source commit: 614f8127394b02d37014a450f1ec6070683649b2
+
+Khronos OpenXR SDK loader and headers:
+  OpenXR-SDK release 1.1.63, copyright The Khronos Group Inc.
+  Apache-2.0, MIT, and associated notices are retained with the release.
+  https://github.com/KhronosGroup/OpenXR-SDK/tree/release-1.1.63
+  The loader includes JsonCpp; its notice is retained with the release.
+
+NVIDIA DLSS SDK and signed runtime 310.9.1.0:
+  Copyright NVIDIA Corporation. Subject to NVIDIA's license terms.
+  https://github.com/NVIDIA/DLSS/releases/tag/v310.9.1
+  NVIDIA components are not covered by the W40KRT_VR MIT License.
+
+Optional OFXR provider:
+  Based on OFXR Bridge, created by tig3rmast3r.
+  https://github.com/tig3rmast3r/OFXR-Bridge
+  LGPL-3.0-or-later; corresponding source and W40KRT_VR modifications are
+  included under ../../third_party/ofxr and in the release archive.
+  Uses Khronos OpenXR headers, AMD FidelityFX SDK Optical Flow components
+  under the AMD MIT License, and public NVIDIA Optical Flow interface headers
+  under their retained permission notice. Full notices accompany the source
+  and release package.
+
+Space-combat background: IC 2631. Credit: ESO.
+  Source: https://www.eso.org/public/images/eso1605a/
+  License: CC BY 4.0, https://creativecommons.org/licenses/by/4.0/
+  Adapted for W40KRT_VR through square framing, darkening and colour treatment,
+  border fade, and runtime export.
+
+Unity, Harmony, Newtonsoft.Json, Unity Mod Manager, game assemblies, and game
+assets are obtained from the user's legitimate Rogue Trader installation and
+are not distributed or licensed under this project's MIT License. Runtime
+servo-skull hand visuals are loaded from the installed game.
+
+W40KRT_VR is an unofficial fan project and is not affiliated with, sponsored
+by, or endorsed by Owlcat Games, Games Workshop, NVIDIA, Meta, Virtual Desktop,
+or the authors of its dependencies. All trademarks belong to their owners.
